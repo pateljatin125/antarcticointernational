@@ -415,7 +415,7 @@
                             <div class="address">
                                 <i class="bi bi-geo-alt"></i>
                                 <h4>Location:</h4>
-                                <p>A108 Adam Street, New York, NY 535022</p>
+                                <p>Apple Avenue ,Near Milanio Res,Yogi Chowk.Surat city,Surat,Gujarat,India</p>
                             </div>
 
                             <div class="email">
